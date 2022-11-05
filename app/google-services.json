@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1090744577043",
+    "firebase_url": "https://movie-recommendation-6274b-default-rtdb.firebaseio.com",
+    "project_id": "movie-recommendation-6274b",
+    "storage_bucket": "movie-recommendation-6274b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090744577043:android:867043fa93caed75ee23e6",
+        "android_client_info": {
+          "package_name": "com.elitechinc.imageclusstering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090744577043-no5cqdct379nedmkcofkppf65la5t0kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJb7QwS6bsQHIVfhp7iJ13c-GoRkfge8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090744577043-no5cqdct379nedmkcofkppf65la5t0kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090744577043:android:973cbb72320b35edee23e6",
+        "android_client_info": {
+          "package_name": "com.elitechinc.movierecommendation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090744577043-no5cqdct379nedmkcofkppf65la5t0kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJb7QwS6bsQHIVfhp7iJ13c-GoRkfge8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090744577043-no5cqdct379nedmkcofkppf65la5t0kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090744577043:android:30226487ffbe80c7ee23e6",
+        "android_client_info": {
+          "package_name": "com.elitechinc.my"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090744577043-no5cqdct379nedmkcofkppf65la5t0kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWJb7QwS6bsQHIVfhp7iJ13c-GoRkfge8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090744577043-no5cqdct379nedmkcofkppf65la5t0kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
